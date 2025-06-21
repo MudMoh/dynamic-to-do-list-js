@@ -51,5 +51,5 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     // Optionally, you can call addTask here if you want to add a default task on load
-    // addTask();
+    addTask();
 });
